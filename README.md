@@ -9,16 +9,21 @@ Keep in mind that the wiki and pharo-ai is right now under construction version 
 
 ## Contents
 
-- [Tutorials](#tutorials)
-- [State Space Search](#state-space-search)
-- [Machine Learning](#machine-learning)
-    - [Regression](#regression)
-    - [Classification](#classification)
-    - [Clustering](#clustering)
-- [Data Preprocessing](#-data-preprocessing)
-- [Data Mining](#data-mining)
-- [Metrics](#metrics)
-- [Natural Language Processing](#natural-language-processing)
+- [Pharo-AI Wiki](#pharo-ai-wiki)
+  - [Contents](#contents)
+  - [Tutorials](#tutorials)
+        - [Linear Regression](#linear-regression)
+        - [Logistic regression](#logistic-regression)
+        - [Clustering](#clustering)
+  - [State Space Search](#state-space-search)
+  - [Machine Learning](#machine-learning)
+        - [Regression](#regression)
+        - [Classification](#classification)
+        - [Clustering](#clustering-1)
+  - [Data Preprocessing](#data-preprocessing)
+  - [Data Mining](#data-mining)
+  - [Metrics](#metrics)
+  - [Natural Language Processing](#natural-language-processing)
 
 ## Tutorials
 
@@ -45,6 +50,7 @@ Keep in mind that the wiki and pharo-ai is right now under construction version 
 
 - [Linear regression](./wiki/MachineLearning/Linear-Regression.md)
 - [Logistic regression](./wiki/MachineLearning/Logistic-Regression.md)
+- [Support Vector Machines](./wiki/MachineLearning/Support-Vector-Machines-Soft-Margin.md)
 
 ##### Classification
 
